@@ -1,192 +1,207 @@
+# Ahmed Momtaz Professional GitHub Profile README
+
 <div align="center">
-
-# Ahmed Momtaz
-
-### Junior .NET Backend Developer
-
-Backend-focused .NET developer passionate about building scalable APIs, modular backend systems, and business-driven applications using modern .NET technologies and Clean Architecture principles.
-
-<p align="center">
-  <a href="https://linkedin.com/in/ahmedmomtaz40988">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:ahmedmomtaz40988@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Ahmed40988">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt" />
 </div>
 
----
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=40C4FF&width=700&lines=Hi%2C+I'm+Ahmed+Momtaz+%F0%9F%91%8B;Backend+.NET+Developer+%F0%9F%9A%80;ASP.NET+Core+%7C+Clean+Architecture;CQRS+%7C+MediatR+%7C+EF+Core;Building+Scalable+Backend+Systems" />
+</h1>
 
-# About Me
+<img align="right" height="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-Junior .NET Backend Developer specializing in ASP.NET Core Web APIs and Clean Architecture with hands-on experience building ERP modules, multi-role commerce systems, and scalable backend workflows using CQRS, MediatR, EF Core, and SQL Server.
+### 🧑‍💻 About Me
 
-Currently working on real-world ERP systems and continuously improving my backend engineering, system design, and scalable application architecture skills.
+🚀 Backend .NET Developer from Egypt 🇪🇬
 
----
+💼 Backend Developer @ Drcode
 
-# Tech Stack
+🏗️ Building scalable Web APIs using ASP.NET Core
 
-<div align="center">
+🧩 Clean Architecture, CQRS & MediatR Enthusiast
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,git,github,postgres,mysql,redis,docker,postman)](https://skillicons.dev)
+🗄️ SQL Server, EF Core & Dapper
 
-</div>
+🔐 JWT Authentication & Authorization
 
----
+⚡ SignalR, Firebase Push Notifications & Real-Time Systems
 
-# Backend Technologies
+📦 Logistics, E-Commerce & Multi-Role Platforms
 
-- ASP.NET Core Web APIs
-- Entity Framework Core
-- SQL Server
-- LINQ & Dapper
-- RESTful API Design
-- Authentication & Authorization
-- FluentValidation
-- JWT Authentication
-- Swagger/OpenAPI
+🔥 Hangfire, Background Jobs & Event-Driven Workflows
+
+🌱 Currently Learning Dynamics 365 & Power Platform
 
 ---
 
-# Architecture & Practices
+### 🌐 Connect With Me
 
-- Clean Architecture
-- CQRS Pattern
-- MediatR
-- Repository Pattern
-- Dependency Injection
-- Pipeline Validation
-- Layered Architecture
-- Standardized API Responses
-
----
-
-# Additional Experience
-
-- Hangfire & Background Jobs
-- Payment Gateway Integration (Paymob)
-- Geolocation & Distance Calculation APIs
-- Pagination & Caching
-- SMTP & Email Services
-- Jira & Agile Workflow
-- Figma Collaboration
-
----
-
-# Current Experience
-
-## Backend Developer Intern — Drcode
-
-Currently contributing to a large ERP system focused on operational and business management workflows.
-
-### Responsibilities
-- Developing backend modules for catalogs, suppliers, blogs, branches, permissions, and administration systems.
-- Building scalable APIs and modular business workflows using ASP.NET Core and Clean Architecture.
-- Applying CQRS + MediatR architecture patterns across application layers.
-- Collaborating with frontend developers on API contracts and integration workflows.
-- Working with Jira and Figma within agile development environments.
-
----
-
-# Featured Projects
-
-## 🍔 MEGO FOOD
-
-Multi-role food delivery and commerce platform connecting customers, restaurants, delivery captains, and administrators.
-
-### Features
-- Order Management
-- Delivery Assignment
-- Online Payments
-- Order Tracking
-- Distance-Based Pricing
-- Role-Based Dashboards
-
-### Technologies
-ASP.NET Core, Clean Architecture, CQRS, MediatR, SQL Server, Paymob, Geolocation APIs
-
----
-
-## 🐾 PetPaw
-
-Pet-care platform supporting pet adoption, veterinary booking, boarding, and e-commerce workflows.
-
-### Features
-- Authentication & Authorization
-- Veterinary Booking
-- Boarding Services
-- Smart Notifications
-- Background Processing
-- Role-Based Management
-
-### Technologies
-ASP.NET Core, EF Core, SQL Server, JWT, Gemini AI, Background Jobs
-
----
-
-## 📊 SurveyBasket
-
-Survey management platform allowing users to create, publish, participate in, and analyze surveys.
-
-### Features
-- Survey Publishing
-- Email Notifications
-- Admin Dashboard
-- Analytics Workflows
-- Rate Limiting
-- Background Jobs
-
-### Technologies
-ASP.NET Core, EF Core, SQL Server, Hangfire, FluentValidation, Caching
-
----
-
-# Education
-
-### Bachelor’s Degree in Computers and Artificial Intelligence
-Fayoum University  
-2022 — 2026
-
----
-
-# Achievement
-
-🏆 DEPI Graduation Project — 1st Place
-
-- Led backend development and sprint coordination for the graduation project team.
-- Delivered scalable backend workflows and API integration solutions.
-
----
-
-# Currently Learning
-
-- Docker & Deployment
-- System Design Fundamentals
-- Performance Optimization
-- Advanced ASP.NET Core
-- Distributed Systems Concepts
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ahmedmomtaz40988">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Momtaz-blue?style=for-the-badge&logo=linkedin"/>
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ahmedmomtaz40988@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ahmedmomtaz40988%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Ahmed40988">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🚚 Bareedk Express
+Production Logistics Platform
+
+- Shipment Lifecycle Workflows
+- Driver Assignment & Tracking
+- Real-Time Notifications
+- SignalR Integration
+- Firebase Push Notifications
+
+#### 🛡️ Strike Defender
+AI-Powered Cybersecurity Platform
+
+- Attack Simulation
+- Firewall Automation
+- Security Analytics
+- AI Integrations
+
+#### 🍔 Mego Food
+Food Delivery Platform
+
+- CQRS + MediatR
+- Paymob Integration
+- Delivery Tracking
+- Order Management
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="45"/>
+
+</div>
+
+---
+
+### 🏗 Architecture & Patterns
+
+<p align="center">
+
+🔹 Clean Architecture
+
+🔹 CQRS
+
+🔹 MediatR
+
+🔹 Repository Pattern
+
+🔹 Dependency Injection
+
+🔹 SOLID Principles
+
+🔹 FluentValidation
+
+🔹 JWT Authentication
+
+🔹 Background Jobs
+
+🔹 SignalR
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed40988&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed40988&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+### 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ahmed40988&theme=tokyonight"/>
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed40988&theme=tokyo-night"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed40988&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Ahmed40988/Ahmed40988/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation"
+       src="https://raw.githubusercontent.com/Ahmed40988/Ahmed40988/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+### 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ahmed40988&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -194,6 +209,11 @@ Fayoum University
 
 <div align="center">
 
-⭐ Always passionate about backend engineering, scalable systems, and real-world business applications.
+### 💡 "Great software is built through clean architecture, scalable design, and continuous improvement."
 
 </div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
+</div>
+```
