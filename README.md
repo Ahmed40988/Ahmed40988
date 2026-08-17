@@ -1,18 +1,151 @@
-# 💫 About Me:
-## About Me<br><br>I'm Ahmed Momtaz, a Backend .NET Developer passionate about building scalable, maintainable, and production-ready backend systems. I specialize in ASP.NET Core Web APIs, Clean Architecture, CQRS, MediatR, and SQL Server, with hands-on experience designing complex business workflows and high-performance enterprise applications.<br><br>Currently, I work as a Backend Developer at Drcode, contributing to Bareedk Express, a production logistics platform where I design and implement shipment lifecycle workflows, customer and operational management systems, real-time communication solutions, and notification services using SignalR and Firebase Push Notifications. I have also helped establish backend architecture standards, reusable infrastructure components, and scalable development practices adopted across multiple company projects.<br><br>My professional experience includes developing backend systems for logistics, e-commerce, cybersecurity, and service-based platforms. As a Freelance Backend Developer, I built backend services for PetPaw, a pet-care mobile application supporting adoption, veterinary booking, boarding services, and e-commerce operations. I designed appointment management workflows, integrated AI-powered recommendations using Gemini AI, and implemented authentication, role-based access control, automated notifications, and background job processing.<br><br>I have also worked on AI-powered cybersecurity solutions through Strike Defender, where I developed automation workflows integrating AI models, attack simulation systems, firewall services, and security analytics pipelines. Additionally, I contributed to Mego Food, a multi-role food delivery platform featuring order management, delivery assignment, payment processing, geolocation services, and Paymob integration using a Clean Architecture and CQRS-driven approach.<br><br>### Core Expertise<br><br>* ASP.NET Core Web APIs<br>* Clean Architecture<br>* CQRS & MediatR<br>* Entity Framework Core & Dapper<br>* SQL Server & MySQL<br>* SignalR Real-Time Communication<br>* Firebase Push Notifications<br>* JWT Authentication & Authorization<br>* FluentValidation & Pipeline Behaviors<br>* Hangfire & Background Jobs<br>* Repository Pattern & Dependency Injection<br>* RESTful API Design<br>* Caching & Pagination<br>* Multi-Role System Design<br>* Enterprise Application Development<br><br>### Currently Exploring<br><br>I'm currently expanding my expertise in Microsoft Dynamics 365 and Power Platform, focusing on CRM customization, entities, forms, views, workflows, business rules, Power Automate, and Power Apps to strengthen my enterprise development capabilities.<br><br>### Beyond Coding<br><br>I enjoy solving complex business problems, designing scalable architectures, mentoring team members, collaborating in Agile environments, and continuously improving my technical and leadership skills. During the Digital Egypt Pioneers Initiative (DEPI), I led my graduation project team, coordinated development sprints, and contributed to delivering an award-winning project that achieved first place.<br><br>### Vision<br><br>My goal is to become a world-class software engineer who builds impactful products, architects scalable systems, and contributes to innovative technology solutions that solve real-world challenges.<br>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt" />
+</div>
 
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=40C4FF&width=850&lines=Hi,+I'm+Ahmed+Momtaz+👋;Backend+.NET+Developer+🚀;ASP.NET+Core+%7C+Clean+Architecture+%7C+CQRS;Building+Scalable+Backend+Systems+⚡;Always+Learning+and+Growing+💡" />
+</h1>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ahmedmomtaz40988@gmail.com) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ahmedmomtaz40988@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahmedmomtaz40988@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmedmomtaz40988@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedmomtaz40988@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmomtaz40988) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ahmedmomtaz40988@gmail.com) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ahmedmomtaz40988) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ahmedmomtaz40988@gmail.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ahmedmomtaz40988) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ahmedmomtaz40988@gmail.com) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ahmedmomtaz40988) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ahmedmomtaz40988@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahmedmomtaz40988) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmedmomtaz40988@gmail.com) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ahmedmomtaz40988) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ahmedmomtaz40988@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedmomtaz40988@gmail.com) 
+<img align="right" height="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ahmed40988&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ahmed40988&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmed40988&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🧑‍💻 About Me
+
+🚀 Backend .NET Developer from Egypt 🇪🇬
+
+💼 Backend Developer at **Drcode**, contributing to **Baridik Express**, a production-scale logistics platform.
+
+🏗️ Specialized in:
+- ASP.NET Core Web APIs
+- Clean Architecture
+- CQRS & MediatR
+- Entity Framework Core
+- SQL Server
+- SignalR
+- Firebase Push Notifications
+
+⚡ Experienced in building scalable enterprise applications, multi-role systems, authentication & authorization workflows, background jobs, notification systems, and real-time features.
+
+🧠 Worked on logistics, e-commerce, cybersecurity, AI-integrated, and service-based applications.
+
+🌱 Currently exploring:
+- Microsoft Dynamics 365
+- Power Platform
+- Advanced System Design
+- Enterprise Architecture
+
+🎯 Goal: Become a world-class Software Engineer building impactful, scalable, and high-performance products.
+
+<br clear="right"/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ahmed40988&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ahmed40988">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://skillicons.dev/icons?i=cs" />
+<img src="https://skillicons.dev/icons?i=visualstudio" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=redis" />
+<img src="https://skillicons.dev/icons?i=aws" />
+
+</p>
+
+---
+
+## 🚀 Featured Expertise
+
+```text
+✔ ASP.NET Core Web APIs
+✔ Clean Architecture
+✔ CQRS & MediatR
+✔ Entity Framework Core
+✔ Repository Pattern
+✔ Dependency Injection
+✔ JWT Authentication
+✔ Role-Based Authorization
+✔ SignalR Real-Time Communication
+✔ Firebase Notifications
+✔ Hangfire Background Jobs
+✔ SQL Server & Database Design
+✔ RESTful API Development
+✔ Caching & Performance Optimization
+✔ Enterprise Application Development
+```
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Ahmed40988&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed40988&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed40988&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Graph
+
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed40988&theme=tokyo-night)](https://github.com/Ahmed40988)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ahmed40988/Ahmed40988/output/github-contribution-grid-snake-dark.svg">
+    
+  <img alt="snake animation"
+    src="https://raw.githubusercontent.com/Ahmed40988/Ahmed40988/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Ahmed40988&color=blueviolet&style=for-the-badge)
+
+---
+
+## 🏆 Current Focus
+
+- Building Production-Ready Backend Systems
+- Microsoft Dynamics 365 Development
+- Enterprise Software Architecture
+- Cloud & Scalable Applications
+- Performance Optimization
+- Clean Code & Best Practices
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
+</div>
