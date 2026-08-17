@@ -1,12 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Ahmed%20Momtaz&fontSize=42&fontColor=ffffff&color=0:0f2027,100:2c5364&animation=fadeIn&fontAlignY=38&desc=Backend%20.NET%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ahmed%20Momtaz&fontSize=46&fontColor=ffffff&color=0:0d1b2a,50:1b263b,100:415a77&animation=fadeIn&fontAlignY=34&desc=Backend%20.NET%20Developer&descAlignY=52&descSize=19&descColor=8ecae6"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=40C4FF&center=true&vCenter=true&width=700&lines=Backend+.NET+Developer+%F0%9F%9A%80;ASP.NET+Core+%7C+Clean+Architecture+%7C+CQRS;Building+Scalable+Backend+Systems+%E2%9A%A1;Always+Learning+and+Growing+%F0%9F%92%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=8ECAE6&center=true&vCenter=true&width=750&lines=ASP.NET+Core+%7C+Clean+Architecture+%7C+CQRS;Building+Scalable+Backend+Systems+%E2%9A%A1;Real-Time+Systems+%7C+Background+Jobs+%7C+Cloud;Always+Learning+and+Growing+%F0%9F%92%A1" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Egypt-8ECAE6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -14,7 +19,7 @@
 
 <table align="center">
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 ### 🧑‍💻 About Me
 
@@ -44,9 +49,13 @@
 🎯 **Goal:** Become a world-class Software Engineer building impactful, scalable, and high-performance products.
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="35%" valign="top" align="center">
 
-<img width="100%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ahmed40988&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=8ecae6&icon_color=8ecae6&text_color=c9d1d9"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed40988&theme=tokyonight&hide_border=true&background=0d1b2a&stroke=8ecae6&ring=8ecae6&fire=8ecae6&currStreakLabel=8ecae6"/>
 
 </td>
 </tr>
@@ -119,12 +128,9 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed40988&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed40988&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed40988&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed40988&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=8ecae6&text_color=c9d1d9"/>
 
 </div>
 
@@ -135,7 +141,7 @@
 ### 📈 Contribution Graph
 
 <a href="https://github.com/Ahmed40988">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed40988&theme=tokyo-night" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed40988&bg_color=0d1b2a&color=8ecae6&line=8ecae6&point=ffffff&area=true&hide_border=true" width="90%"/>
 </a>
 
 </div>
@@ -177,8 +183,8 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Ahmed40988&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Ahmed40988&color=415A77&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,100:2c5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1b2a,50:1b263b,100:415a77"/>
 
 </div>
