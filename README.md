@@ -12,6 +12,21 @@
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Egypt-8ECAE6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Developer-415A77?style=for-the-badge&logo=server&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Ahmed40988?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/Ahmed40988?label=Stars&style=social"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=8ECAE6&center=true&vCenter=true&width=650&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" />
 
 </div>
 
@@ -61,7 +76,7 @@
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
 <div align="center">
 
@@ -79,7 +94,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
 <div align="center">
 
@@ -89,7 +104,17 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed40988&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
 <div align="center">
 
@@ -124,7 +149,7 @@
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
 <div align="center">
 
@@ -134,7 +159,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
 <div align="center">
 
@@ -146,7 +171,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
 <div align="center">
 
@@ -159,7 +184,22 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
+
+<div align="center">
+
+### 💬 Ask Me About
+
+<img src="https://img.shields.io/badge/-.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Clean%20Architecture-415A77?style=flat-square"/>
+<img src="https://img.shields.io/badge/-CQRS-1B263B?style=flat-square"/>
+<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-System%20Design-0D1B2A?style=flat-square"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
 <div align="center">
 
@@ -179,7 +219,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
 <div align="center">
 
