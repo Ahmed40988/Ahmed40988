@@ -88,6 +88,7 @@ notification services, background jobs, and scalable architectures.
 </tr>
 </table>
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
 <div align="center">
@@ -95,16 +96,6 @@ notification services, background jobs, and scalable architectures.
 ### 🛠 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,vscode,postgres,mysql,firebase,postman,git,github,docker,redis,aws" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed40988&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2"/>
 
 </div>
 
@@ -144,29 +135,24 @@ notification services, background jobs, and scalable architectures.
 </table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
-
 <div align="center">
 
-### 📊 Top Languages
+### 🔗 Connect with me
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed40988&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=8ecae6&text_color=c9d1d9"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<a href="https://github.com/Ahmed40988">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed40988&bg_color=0d1b2a&color=8ecae6&line=8ecae6&point=ffffff&area=true&hide_border=true" width="90%"/>
+<a href="https://www.linkedin.com/in/ahmedmomtaz40988" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Ahmed40988" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-415A77?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://wa.me/201104602759" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/ahmed.momtaz.elsaadany" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
-
 <div align="center">
 
 ### 🐍 Contribution Snake
@@ -212,6 +198,10 @@ notification services, background jobs, and scalable architectures.
 | Quality | Performance Optimization, Clean Code & Best Practices |
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
