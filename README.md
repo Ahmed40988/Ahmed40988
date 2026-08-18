@@ -30,70 +30,64 @@
 
 </div>
 
-<br/>
+<br/>## 👨‍💻 About Me
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="middle">
 
-### 🧑‍💻 About Me
+```csharp
+public class AhmedMomtaz
+{
+    public string Role => ".NET Backend Developer";
 
-🚀 Backend .NET Developer based in **Egypt** 🇪🇬
+    public string Company => "Drcode";
 
-💼 Backend Developer at **Drcode**, contributing to **Baridik Express** — a production-scale logistics platform.
+    public string Project => "Baridik Express";
 
-🏗️ Specialized in:
-- ASP.NET Core Web APIs
-- Clean Architecture
-- CQRS & MediatR
-- Entity Framework Core
-- SQL Server
-- SignalR
-- Firebase Push Notifications
+    public string Location => "Egypt 🇪🇬";
 
-⚡ Experienced in building scalable enterprise applications, multi-role systems, authentication & authorization workflows, background jobs, notification systems, and real-time features.
+    public string[] Expertise =>
+    [
+        "ASP.NET Core Web APIs",
+        "Clean Architecture",
+        "CQRS & MediatR",
+        "Entity Framework Core",
+        "SQL Server",
+        "SignalR",
+        "Firebase Notifications"
+    ];
 
-🧠 Worked across logistics, e-commerce, cybersecurity, AI-integrated, and service-based applications.
+    public string CurrentFocus =>
+        "Building scalable enterprise applications";
 
-🌱 Currently exploring:
+    public string Goal =>
+        "Become a world-class Software Engineer";
+}
+```
+
+⚡ Building production-ready backend systems, real-time features,
+notification services, background jobs, and scalable architectures.
+
+🌱 Currently learning:
 - Microsoft Dynamics 365
 - Power Platform
 - Advanced System Design
 - Enterprise Architecture
 
-🎯 **Goal:** Become a world-class Software Engineer building impactful, scalable, and high-performance products.
-
 </td>
-<td width="35%" valign="top" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ahmed40988&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=8ecae6&icon_color=8ecae6&text_color=c9d1d9"/>
+<td width="35%" align="center" valign="middle">
 
-<br/>
+<br><br><br><br><br>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed40988&theme=tokyonight&hide_border=true&background=0d1b2a&stroke=8ecae6&ring=8ecae6&fire=8ecae6&currStreakLabel=8ecae6"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNpcTNjYmZ5Mzdsc3ZqbGJuanM1d3o4YjZzcTlobmk2MHhwd25lYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width="320"/>
 
 </td>
 </tr>
 </table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
-
-<div align="center">
-
-### 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/ahmedmomtaz40988">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Ahmed40988">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1b2a,50:8ecae6,100:0d1b2a"/>
 
 <div align="center">
